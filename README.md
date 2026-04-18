@@ -1,8 +1,9 @@
 # Apex Slicer
 
 A 4-axis non-planar slicer, based on **Joshua Bird's S4 Slicer**, optimized for execution on Jupyter Notebook.
-
 This project is designed for users who want a more streamlined execution and simplified workflow for 4-axis printing.
+It's got progress bars, so you can notice how long is the process without thinking it's interrupted.
+Also, a CUDA GPU version is in developement.
 
 ## 🚀 Key Features
 - **Enhanced Compatibility:** Optimized for high-end GPUs (tested on RTX 3080 Ti) to handle complex meshes and "Torture Tests" without kernel crashes.
