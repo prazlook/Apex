@@ -19,7 +19,7 @@ Check out the project in action and learn how to use it:
 
 ## 🤝 Community & Support
 Need help or want to share your results?
-Please use the [Discussions tab](https://github.com/prazlook/vortex-slicer/discussions) to ask questions and interact with the community.
+Please use the [Discussions tab](https://github.com/prazlook/apex-slicer/discussions) to ask questions and interact with the community.
 
 ## ⚖️ License & Credits
 This project is a fork of the original **S4 Slicer** by Joshua Bird.
