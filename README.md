@@ -1,7 +1,4 @@
-# S4 Slicer
-A generic non-planar slicer, that can print almost any part without support.
-
-# √ortex Slicer 🌪️
+# Apex Slicer 🌪️
 
 A 4-axis non-planar slicer, based on **Joshua Bird's S4 Slicer**, optimized for execution on Jupyter Notebook.
 
